@@ -3794,3 +3794,8 @@ input, select, textarea {
 	display: flex;
 	text-align: left;
 }
+
+
+.show-img{
+	width: 250px;
+}
